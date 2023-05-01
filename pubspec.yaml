@@ -15,7 +15,7 @@ dependencies:
   audiotagger:
     git:
 
-      url: https://github.com/wrongman123/BlackHole-main
+      url: https://github.com/wrongman123/BlackHole_main
       ref: 4883d365
 
 
