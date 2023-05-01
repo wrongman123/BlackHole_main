@@ -1,4 +1,4 @@
-name: BlackHole
+name: BlackHole_main
 description: An Open Source Music Player App.
 
 # Prevent accidental publishing to pub.dev.
@@ -16,7 +16,7 @@ dependencies:
     git:
 
       url: https://github.com/wrongman123/BlackHole-main
-      ref: f10397c2
+      ref: 4883d365
 
 
   # bitsdojo_window: ^0.1.1+1 #For Desktops
