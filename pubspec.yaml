@@ -75,7 +75,7 @@ flutter:
 
 msix_config:
   display_name: BlackHole
-  publisher_display_name: Baron Rcom
+  publisher_display_name: Hong Anh
   identity_name: null
   icons_background_color: transparent
   logo_path: assets/ic_launcher.png
