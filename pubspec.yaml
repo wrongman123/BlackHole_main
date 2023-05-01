@@ -74,7 +74,7 @@ flutter:
     - assets/
 
 msix_config:
-  display_name: BlackHole
+  display_name: BlackHole_main
   publisher_display_name: Hong Anh
   identity_name: null
   icons_background_color: transparent
